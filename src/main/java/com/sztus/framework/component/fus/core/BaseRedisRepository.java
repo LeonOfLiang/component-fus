@@ -1,4 +1,4 @@
-package com.sztus.framework.component.cache.core;
+package com.sztus.framework.component.fus.core;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;

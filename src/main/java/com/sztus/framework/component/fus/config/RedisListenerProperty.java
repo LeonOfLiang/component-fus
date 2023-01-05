@@ -1,4 +1,4 @@
-package com.sztus.framework.component.cache.config;
+package com.sztus.framework.component.fus.config;
 
 /**
  * @author Fly_Roushan

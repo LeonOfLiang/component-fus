@@ -1,4 +1,4 @@
-package com.sztus.framework.component.cache.core;
+package com.sztus.framework.component.fus.core;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
