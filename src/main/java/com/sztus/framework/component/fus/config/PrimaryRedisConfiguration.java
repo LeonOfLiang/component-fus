@@ -1,4 +1,4 @@
-package com.sztus.framework.component.cache.config;
+package com.sztus.framework.component.fus.config;
 
 import com.alibaba.fastjson.support.spring.GenericFastJsonRedisSerializer;
 import com.sztus.framework.component.cache.core.BeanContextAware;
